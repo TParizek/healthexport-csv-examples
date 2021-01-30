@@ -1,4 +1,4 @@
-﻿# HealthExport CSV examples
+# HealthExport CSV examples
 
 HealthExport is an iOS app that lets users export  health data from their iPhone to a CSV file. For more information visit [https://healthexport.app/](https://healthexport.app/).
 
@@ -8,6 +8,7 @@ HealthExport is an iOS app that lets users export  health data from their iPhone
 - [Cumulative export aggregated by months](https://raw.githubusercontent.com/TParizek/healthexport-csv-examples/master/cumulative_months.csv)
 - [Record based export](https://raw.githubusercontent.com/TParizek/healthexport-csv-examples/master/record.csv)
 - [Workouts export](https://raw.githubusercontent.com/TParizek/healthexport-csv-examples/master/workouts.csv)
+- [Workout route export](https://raw.githubusercontent.com/TParizek/healthexport-csv-examples/master/workout_route.gpx)
 
 ---
 
